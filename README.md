@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on full-stack-developer and content creation<br>🤝 I’m looking for help with developing my skills in machine learning<br>🌱 I’m currently learning react.js<br>💬 Ask me about js,html,css<br>⚡ Fun fact-Iam lazy but smart
+🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on full-stack-developer and content creation<br>🤝 I’m looking for help with developing my skills in machine learning<br>🌱 I’m currenly learning react-native<br>💬 Ask me about js,html,css<br>⚡ Fun fact-Iam lazy but smart
 
 
 ## 🌐 Socials:
