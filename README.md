@@ -1,58 +1,30 @@
-💫 About Me:
-🔭 I’m currently working on web development with a focus on Next.js and React Native.<br> 👯 I’m looking to collaborate on full-stack development, AI projects, and content creation.<br> 🤝 I’m actively improving my skills in machine learning and deep learning.<br> 🌱 Currently learning advanced concepts in Next.js, React Native, and AI.<br> 💬 Ask me about JavaScript, HTML, CSS, React, Python, DSA, and AI.<br> ⚡ Fun fact: I’m lazy but smart. I believe in working smarter, not harder!
-
-🌐 Socials:
+# 💫 About Me:
+🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on full-stack-developer and content creation<br>🤝 I’m looking for help with developing my skills in machine learning<br>🌱 I’m currenly learning react-native<br>💬 Ask me about js,html,css<br>⚡ Fun fact-Iam lazy but smart
 
 
-💻 Tech Stack:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suryaprakash9196) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaprakash9196) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-prakash-308b49256) 
 
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React-native] ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surya6798&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=surya6798&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya6798&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=surya6798&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-📊 GitHub Stats:
-<br/><br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=surya6798&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
-
-😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-🚀 AI Projects:
-AI-based Chatbot: Built a conversational chatbot using TensorFlow and Natural Language Processing (NLP) to help automate customer support.
 
-Image Classification: Developed an AI model using Deep Learning to classify images, achieving 85%+ accuracy.
+---
+[![](https://visitcount.itsvg.in/api?id=surya6798&icon=6&color=11)](https://visitcount.itsvg.in)
 
-Machine Learning Algorithm Optimizations: Optimized algorithms using Python's Scikit-learn, achieving up to 30% performance improvements on large datasets.
-
-🚀 Next.js Projects:
-Next.js Portfolio: A dynamic portfolio showcasing my skills in React and Next.js.
-
-E-commerce Store: Built an e-commerce platform with server-side rendering (SSR) and API routes in Next.js to ensure scalability and SEO optimization.
-
-Blog Application: Developed a blog application with Next.js, using markdown files for static site generation (SSG).
-
-🚀 React Native Projects:
-Task Manager App: Developed a cross-platform React Native app for managing tasks, integrated with Firebase for real-time updates.
-
-Weather App: Built a weather app using React Native and OpenWeatherMap API, utilizing React Navigation for smooth user experience.
-
-🧑‍💻 DSA Skills:
-Solved over 300+ problems on LeetCode and HackerRank.
-
-Specializes in Dynamic Programming, Graph Algorithms, and Binary Search.
-
-Consistently achieving scores in the Top 10% of the global leaderboards.
-
-Contributed solutions to Data Structures and Algorithms in Python and Java.
-
-⚡ Fun fact: You won't believe how efficient I am with algorithms, even when I'm "lazy"! 😎
-📊 GitHub Stats – Enhanced:
-Top Repositories: Contributions to high-level AI and Next.js repositories, where I regularly push and review code. Your activity highlights algorithms and AI applications.
-
-Streak Stats: Focus on algorithmic problems and regular contributions to Next.js and AI projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
